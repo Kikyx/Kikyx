@@ -19,7 +19,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/rute-borges-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/Kikyx/Kikyx/actions)
+
  
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
