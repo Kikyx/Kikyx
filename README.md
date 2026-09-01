@@ -26,7 +26,10 @@
 
 <div>
 
-   ![Snake animation](https://github.com/kikyx/kikyx/blob/output/github-contribution-grid-snake.svg)
+ <p align="center">
+  <img src="https://github.com/Kikyx/Kikyx/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
  
 </div>
 
